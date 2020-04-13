@@ -6,7 +6,7 @@
 :computer: :running:  Acelera Dev React  :running: :computer:
 </h3>
 
-## :computer: BEM (Block Element Modifier)
+## :pushpin: BEM (Block Element Modifier)
 
 A sigla BEM significa block, element e modifier, é uma metodologia que é aplicada na nomenclatura das `classes` CSS dos nossos elementos HTML.
 
@@ -37,7 +37,7 @@ O `__` indica um `element` e o `--` indica um modifier. Tudo que vem antes do `_
 </div>
 ```
 
-## :rocket: Exemplo prático
+## :computer: Exemplo prático
 
 Nesse projeto usamos o BEM (Block Element Modifier), a fim de padronizar a nomenclatura das classes desse card.
 

@@ -37,13 +37,14 @@ O `__` indica um `element` e o `--` indica um modifier. Tudo que vem antes do `_
 </div>
 ```
 
-## :computer: Exemplo prático
+## :rocket: Exemplo prático
 
 Nesse projeto usamos o BEM (Block Element Modifier), a fim de padronizar a nomenclatura das classes desse card.
 
 <p align="center">
   <img alt="project" src="./assets/screen.png" height="500px"/>
 </p>
+
 ---
 
 Made by :blue_heart: by [Larissa Araújo](https://github.com/arauj0)
